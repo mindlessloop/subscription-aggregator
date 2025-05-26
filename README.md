@@ -71,6 +71,7 @@ https://server-1-domain.ir:2097/sub/abc123
 This will internally fetch and combine subscription data from:
 
 https://server-1-domain.ir:2096/sub/abc123
+and
 https://server-2-domain.ir:2096/sub/abc123
 
 and return the combined Base64 subscription to the client.
